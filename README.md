@@ -1,1 +1,1 @@
-# pracrtica-visualizacion
+# practica-visualizacion
