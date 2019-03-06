@@ -24,4 +24,4 @@ Al mover el slider de fecha elegida, nos filtra toda la información que había 
 
 Además, al pasar sobre cada uno de las distintas criptomonedas, podemos ver un tooltip con los parametros para la última semana, y, si pinchamos en una en concreto, veremos su cotización historica.
 
-He convertido el csv de entrada en un fichero excel, ya que al realizar la información, y debido a la configuración regional de mi máquina, Tableau no era capaz de importar los valores en notacion cientifica de forma correcta, y convertia esos valores en ```Null```. Al pasar por excel, que te da más opciones de importación evito ese error.
+He convertido el csv de entrada en un fichero xlsx, ya que al realizar la importación, y debido a la configuración regional de mi máquina, **Tableau** no era capaz de importar los valores en notación cientifica de forma correcta, y convertia esos valores en ```Null```. Al pasar por **Excel**, que te da más opciones de importación evito este error.
