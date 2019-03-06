@@ -19,7 +19,7 @@ La parte complicada de este ejercicio ha sido cambiar la escala cuando se elige 
 El resto del ejercicio ha sido realizado según el enunciado.
 
 ## Ejercicio 4
-La idea de este dashboard es mostrar una "Máquina del Tiempo". Es decir, mostrar que información vería un analista en una fecha determinada y permitir entender su proceso de decisión vista la información que tenía en ese momento.
+La idea de este dashboard es mostrar una **"Máquina del Tiempo"**. Es decir, mostrar que información vería un analista en una fecha determinada y permitir entender su proceso de decisión vista la información que tenía en ese momento.
 Al mover el slider de fecha elegida, nos filtra toda la información que había en ese momento, pudiendo ver la cotización, el volumen de negociación y el valor de mercado. Así como el reparto del volumen del mercado para las distintas criptos, y la evolución del mercado vs número de criptomonedas hasta esa fecha.
 
 Además, al pasar sobre cada uno de las distintas criptomonedas, podemos ver un tooltip con los parametros para la última semana, y, si pinchamos en una en concreto, veremos su cotización historica.
